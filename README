@@ -1,1 +1,2 @@
 # AlphaServer ES40 Emulator (cvs version from sourceforge.net/projects/es40)
+A portable emulator for the HP (DEC, Compaq) AlphaServer ES40. The current version is capable of running OpenVMS with some limitations. The goal is to have a drop-in replacement for real ES40's. Emulates the Alpha AXP EV68CB processor and other devices.
